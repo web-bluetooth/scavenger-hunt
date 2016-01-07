@@ -1,0 +1,7 @@
+data/nrfConfigParamsPersistence.cpp.i
+data/BLE_API.lib.i
+data/nRF51822.lib.i
+data/ConfigParamsPersistence.h.i
+data/main.cpp.i
+data/nrfURIBeaconConfigService.h.i
+data/mbed.bld.i
